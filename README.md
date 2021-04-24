@@ -1,2 +1,2 @@
 # crm
-Customer Relationship Manager
+Customer Relation Manager
